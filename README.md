@@ -10,7 +10,7 @@
   3) example.json:- it contains the main INVENTORY data set.
   4) sales.json:- it contains all the transaction details. 
 
-#ATTRIBUTES
+#ATTRIBUTES:- 
   Product id, Name, Type, Price, Quantity, Discount.
 
 #FEATURES
