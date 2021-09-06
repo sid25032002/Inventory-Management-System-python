@@ -2,7 +2,7 @@
   It is a inventory management system  project made using python.
 
 # About the project
-  Project is about maintaining the INVENTORY data set and to help customer buy perticular items available in INVENTORY data set and also it enables the owner to add new stock in     INVENTORY data set. 
+  Project is about maintaining the INVENTORY data set and to help customer buy particular items available in INVENTORY data set and also it enables the owner to add new stock in     INVENTORY data set. 
 
 #FILES
   1) purchase.ipynb:- it contains the code: to BUY items, to VIEW updated inventory, to view SALES made in a day, to LOGOUT from system.
